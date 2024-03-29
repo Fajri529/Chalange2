@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chalange2</string>
+    <string name="tip_time">Tip Time!</string>
+    <string name="tip_name">Tip name</string>
+    <string name="tip_times">Tip Time</string>
+    <string name="amazing_20">Amazing (20%)</string>
+</resources>
